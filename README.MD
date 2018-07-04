@@ -15,7 +15,7 @@ Topic：
 
      demo code link: https://github.com/djx314/Shenzhen_Meetup
      
-     remarks: 这个是我的分享，直接复制粘贴 FOM.md 和 ohNoMyCirce.md 到分享的 repo 就好。另外 ohNoMyCirce 已经支持 shapeless 最基本的 case class from 操作的错误提示了，杨老板@杨博 (Yang Bo) 可以看一下，好像挺好玩的。还有有位大佬问我 slick 的那个问题，我这两天会准备好代码，到时 repo 地址发你一个
+     remarks: 这个是我的分享，[FOM.md](https://github.com/djx314/Shenzhen_Meetup/blob/master/FOM.md) 和 [ohNoMyCirce.md](https://github.com/djx314/Shenzhen_Meetup/blob/master/ohNoMyCirce.md) 是分享主题文件。另外 [ohNoMyCirce](https://github.com/djx314/ohNoMyCirce) 已经支持 shapeless 最基本的 case class from 操作的错误提示了，各位可以看一下，挺好玩的。还有有位朋友问我 slick 的那个问题，我这两天会准备好代码，到时一并贴出分享地址。
 
 6.  walk-in: shapeless, type induction, binding.scala @杨博
     
